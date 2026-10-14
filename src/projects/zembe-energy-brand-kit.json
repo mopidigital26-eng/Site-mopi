@@ -1,0 +1,63 @@
+{
+  "slug": "zembe-energy-brand-kit",
+  "order": 3,
+  "category": "Branding",
+  "title": "Zembe Energy — Brand kit",
+  "thumbPos": "center",
+  "metaTitle": "Zembe Energy — Brand kit | Mopi Digital",
+  "metaDesc": "Seleção de páginas do brand kit da Zembe Energy (2025). Portfólio da fundadora da Mopi Digital.",
+  "h1": "Zembe Energy — Brand kit",
+  "lead": "Brand kit da Zembe Energy (2025): logótipo, cores, tipografia, ícones, estilo fotográfico, key visuals e merchandising.",
+  "seeLabel": "Ver páginas",
+  "galleryTitle": "Páginas selecionadas",
+  "gallerySub": "Seleção de páginas do brand kit. Trabalho do portfólio da fundadora.",
+  "cta": {
+    "title": "Precisa de uma marca consistente?",
+    "text": "Conte-nos o seu objetivo e enviamos uma proposta à medida.",
+    "button": "Falar connosco"
+  },
+  "schema": {
+    "type": "CreativeWork",
+    "name": "Zembe Energy — Brand kit",
+    "genre": "Branding",
+    "description": "Brand kit da Zembe Energy (2025): logótipo, cores, tipografia, ícones, estilo fotográfico, key visuals e merchandising."
+  },
+  "examples": {
+    "01-capa.jpg": {
+      "alt": "Brand kit da Zembe Energy — capa",
+      "title": "Capa"
+    },
+    "02-logotipo.jpg": {
+      "alt": "Brand kit da Zembe Energy — logótipo",
+      "title": "Logótipo"
+    },
+    "03-codigo-cromatico.jpg": {
+      "alt": "Brand kit da Zembe Energy — código cromático",
+      "title": "Código cromático"
+    },
+    "04-fontes.jpg": {
+      "alt": "Brand kit da Zembe Energy — fontes em uso",
+      "title": "Fontes em uso"
+    },
+    "05-elementos.jpg": {
+      "alt": "Brand kit da Zembe Energy — elementos, formas e ilustrações",
+      "title": "Elementos, formas e ilustrações"
+    },
+    "06-estilo-fotografico.jpg": {
+      "alt": "Brand kit da Zembe Energy — estilo fotográfico",
+      "title": "Estilo fotográfico"
+    },
+    "07-key-visuals.jpg": {
+      "alt": "Brand kit da Zembe Energy — key visuals",
+      "title": "Key visuals"
+    },
+    "08-merchandising.jpg": {
+      "alt": "Brand kit da Zembe Energy — merchandising e estacionário",
+      "title": "Merchandising e estacionário"
+    },
+    "09-fecho.jpg": {
+      "alt": "Brand kit da Zembe Energy — fecho",
+      "title": "Fecho"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+window.__m=1;var n=document.querySelectorAll(".rv");if("IntersectionObserver"in window){let e=new IntersectionObserver(r=>r.forEach(s=>{s.isIntersecting&&(s.target.classList.add("in"),e.unobserve(s.target))}),{rootMargin:"0px 0px -8% 0px"});n.forEach(r=>e.observe(r))}else n.forEach(e=>e.classList.add("in"));
