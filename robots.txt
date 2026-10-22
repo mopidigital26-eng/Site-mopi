@@ -1,4 +1,4 @@
-# Mopi Digital — https://mopidigital.pt/
+# Mopi Digital — https://mopidigital.com/
 # Todos os rastreadores são bem-vindos, incluindo os de motores de IA.
 
 User-agent: *
@@ -35,4 +35,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://mopidigital.pt/sitemap.xml
+Sitemap: https://mopidigital.com/sitemap.xml
